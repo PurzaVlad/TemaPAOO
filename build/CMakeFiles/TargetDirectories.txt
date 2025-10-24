@@ -1,0 +1,3 @@
+C:/Users/vladp/Desktop/vlad/Facultate/paoo/build/CMakeFiles/TemaCPP.dir
+C:/Users/vladp/Desktop/vlad/Facultate/paoo/build/CMakeFiles/edit_cache.dir
+C:/Users/vladp/Desktop/vlad/Facultate/paoo/build/CMakeFiles/rebuild_cache.dir
